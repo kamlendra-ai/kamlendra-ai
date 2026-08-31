@@ -1,29 +1,60 @@
 <div align="center">
 
-<!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001F,50:24105C,100:00B4D8&height=230&section=header&text=Kamlendra%20Pratap%20Maurya&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Data%20Science%20%26%20AI&descAlignY=62&descSize=19" width="100%"/>
+<!-- ================= HERO ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001F,50:4C1D95,100:06B6D4&height=250&section=header&text=Kamlendra%20Pratap%20Maurya&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Data%20Science%20%26%20AI&descAlignY=60&descSize=19" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Aspiring+AI%2FML+Engineer;Data+Science+%26+AI+Student;Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+NLP;Always+Learning+%7C+Always+Building" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/🤖_AI%2FML-ENGINEER-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/📊_DATA%20SCIENCE-%26%20AI-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐍_PYTHON-DEVELOPER-3776AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🟢_OPEN%20TO-LEARNING-16A34A?style=for-the-badge"/>
 
 <br><br>
 
-<b>Python</b> • <b>Machine Learning</b> • <b>NLP</b> • <b>Data Science</b>
+<b>Python</b> •
+<b>Machine Learning</b> •
+<b>NLP</b> •
+<b>Data Science</b> •
+<b>AI Applications</b>
 
 </div>
 
 ---
 
-# 👨‍💻 Who I Am
+<!-- ================= ABOUT ================= -->
 
-> 🚀 **Aspiring AI/ML Engineer** focused on building practical AI-powered applications.
+<table width="100%">
+<tr>
+<td bgcolor="#0D1117">
 
-I am a **BCA Data Science & AI student** passionate about **Artificial Intelligence, Machine Learning, NLP, and Data Analysis**.
+<h2>👨‍💻 Who I Am</h2>
 
-I enjoy building practical AI-powered applications and continuously improving my technical skills through hands-on projects.
+<p>
+🚀 <b>Aspiring AI/ML Engineer</b> focused on building practical
+AI-powered applications.
+</p>
+
+<p>
+I am a <b>BCA Data Science & AI student</b> passionate about
+<b>Artificial Intelligence, Machine Learning, NLP, and Data Analysis.</b>
+</p>
+
+<p>
+I enjoy building practical AI-powered applications and continuously
+improving my technical skills through hands-on projects.
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ### 🎓 My Focus
 
@@ -43,38 +74,48 @@ I enjoy building practical AI-powered applications and continuously improving my
 ### 💻 Programming
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="55"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p>
+
 <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-F97316?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-A855F7?style=for-the-badge"/>
+
 </p>
 
 ### 📊 Data Science
 
 <p>
+
 <img src="https://img.shields.io/badge/DATA%20ANALYSIS-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DATA%20PREPROCESSING-16A34A?style=for-the-badge"/>
+
 </p>
 
 ### 📚 Libraries
 
 <p>
+
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
 </p>
 
 ### 🤝 AI Tools
 
 <p>
+
 <img src="https://img.shields.io/badge/CHATGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
 </p>
 
 ---
@@ -83,23 +124,61 @@ I enjoy building practical AI-powered applications and continuously improving my
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/FEATURED-PROJECT-7C3AED?style=for-the-badge"/>
+
 ## 🧠 Smart Resume Analyzer for Career Growth
 
 ### <i>AI-powered resume analysis & career guidance</i>
 
+<p>
+An AI-powered web application designed to analyze resumes,
+identify skill gaps, evaluate ATS compatibility and provide
+personalized career recommendations.
+</p>
+
 </div>
 
-### ✨ Key Features
+---
 
-| 🔥 Feature | 💡 Description |
-|:---|:---|
-| 📄 **Resume Parsing** | Extracts information from resumes |
-| 🎯 **ATS Score Analysis** | Evaluates resume ATS compatibility |
-| 🔍 **Skill-Gap Identification** | Identifies missing or relevant skills |
-| 💡 **Career Recommendations** | Provides personalized career guidance |
-| 🌐 **Web Interface** | Presents analysis through a web application |
+## ✨ Key Features
 
-### 🛠️ Built With
+<table width="100%">
+
+<tr>
+<th>🔥 Feature</th>
+<th>💡 Description</th>
+</tr>
+
+<tr>
+<td>📄 <b>Resume Parsing</b></td>
+<td>Extracts important information from resumes</td>
+</tr>
+
+<tr>
+<td>🎯 <b>ATS Score Analysis</b></td>
+<td>Evaluates resume ATS compatibility</td>
+</tr>
+
+<tr>
+<td>🔍 <b>Skill-Gap Identification</b></td>
+<td>Identifies missing or relevant skills</td>
+</tr>
+
+<tr>
+<td>💡 <b>Career Recommendations</b></td>
+<td>Provides personalized career guidance</td>
+</tr>
+
+<tr>
+<td>🌐 <b>Web Interface</b></td>
+<td>Presents analysis through a web application</td>
+</tr>
+
+</table>
+
+---
+
+## 🛠️ Built With
 
 <p align="center">
 
@@ -112,82 +191,19 @@ I enjoy building practical AI-powered applications and continuously improving my
 
 </p>
 
-### 🎯 What It Does
-
-The application analyzes a user's resume, evaluates its ATS compatibility,
-identifies skill gaps, and provides personalized career recommendations
-for relevant job roles.
-
 ---
 
-# 📚 Currently Learning
+## 🎯 What It Does
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/🤖_ARTIFICIAL%20INTELLIGENCE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠_MACHINE%20LEARNING-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_DATA%20SCIENCE-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🐍_PYTHON-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🗃️_SQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💬_NLP-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📈_DATA%20ANALYSIS-16A34A?style=for-the-badge"/>
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamlendra-ai&theme=tokyonight&hide_border=true" width="70%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kamlendra-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="70%"/>
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:mohitsmaurya1@gmail.com">
-<img src="https://img.shields.io/badge/📧_EMAIL-MOHITSMaurya1%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kamlendra-pratap">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-KAMLENDRA%20PRATAP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kamlendra-ai">
-<img src="https://img.shields.io/badge/🐙_GITHUB-KAMLENDRA--AI-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-📧 **[Email Me](mailto:mohitsmaurya1@gmail.com)**  
-💼 **[Connect on LinkedIn](https://www.linkedin.com/in/kamlendra-pratap)**  
-🐙 **[Visit My GitHub](https://github.com/kamlendra-ai)**
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something intelligent together. 🚀**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001F,50:24105C,100:00B4D8&height=130&section=footer" width="100%"/>
-
-</div>
+```text
+📄 Resume
+   ↓
+🔎 Resume Parsing
+   ↓
+🎯 ATS Analysis
+   ↓
+🔍 Skill Gap Detection
+   ↓
+💡 Career Recommendation
+   ↓
+🚀 Better Career Direction
