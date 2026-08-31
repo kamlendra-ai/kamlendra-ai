@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Aspiring+AI%2FML+Engineer;Data+Science+%26+AI+Student;Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+NLP;Always+Learning+%7C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Aspiring+AI%2FML+Engineer;Data+Science+%26+AI+Student;Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+NLP;Always+Learning+%7C+Always+Building"/>
 
 <br><br>
 
@@ -29,32 +29,13 @@
 
 <!-- ================= ABOUT ================= -->
 
-<table width="100%">
-<tr>
-<td bgcolor="#0D1117">
+# 👨‍💻 Who I Am
 
-<h2>👨‍💻 Who I Am</h2>
+> 🚀 **Aspiring AI/ML Engineer** focused on building practical AI-powered applications.
 
-<p>
-🚀 <b>Aspiring AI/ML Engineer</b> focused on building practical
-AI-powered applications.
-</p>
+I am a **BCA Data Science & AI student** passionate about **Artificial Intelligence, Machine Learning, NLP, and Data Analysis**.
 
-<p>
-I am a <b>BCA Data Science & AI student</b> passionate about
-<b>Artificial Intelligence, Machine Learning, NLP, and Data Analysis.</b>
-</p>
-
-<p>
-I enjoy building practical AI-powered applications and continuously
-improving my technical skills through hands-on projects.
-</p>
-
-</td>
-</tr>
-</table>
-
-<br>
+I enjoy building practical AI-powered applications and continuously improving my technical skills through hands-on projects.
 
 ### 🎓 My Focus
 
@@ -195,15 +176,17 @@ personalized career recommendations.
 
 ## 🎯 What It Does
 
+<div align="center">
+
 ```text
-📄 Resume
-   ↓
-🔎 Resume Parsing
-   ↓
-🎯 ATS Analysis
-   ↓
-🔍 Skill Gap Detection
-   ↓
-💡 Career Recommendation
-   ↓
-🚀 Better Career Direction
+📄 RESUME
+     ↓
+🔎 RESUME PARSING
+     ↓
+🎯 ATS ANALYSIS
+     ↓
+🔍 SKILL GAP DETECTION
+     ↓
+💡 CAREER RECOMMENDATION
+     ↓
+🚀 BETTER CAREER DIRECTION
