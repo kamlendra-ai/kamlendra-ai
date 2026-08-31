@@ -1,41 +1,47 @@
 <div align="center">
 
-<!-- ====================================================== -->
-<!-- HERO -->
-<!-- ====================================================== -->
-
 <table width="100%">
 <tr>
 <td align="center" bgcolor="#0D1117">
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001F,50:4C1D95,100:06B6D4&height=230&section=header&text=Kamlendra%20Pratap%20Maurya&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Data%20Science%20%26%20AI&descAlignY=62&descSize=18" width="100%">
+<font color="#67E8F9" size="6">
+<b>Kamlendra Pratap Maurya</b>
+</font>
 
-<br>
+<br><br>
 
 <font color="#A78BFA" size="5">
 <b>🚀 Aspiring AI/ML Engineer</b>
 </font>
 
-<br><br>
+<br>
 
-<font color="#67E8F9" size="4">
-Python • Machine Learning • NLP • Data Science • AI Applications
+<font color="#D1D5DB" size="4">
+BCA Data Science & AI Student
 </font>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%2FML-ENGINEER-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-%26%20AI-0891B2?style=for-the-badge">
-<img src="https://img.shields.io/badge/PYTHON-DEVELOPER-3776AB?style=for-the-badge">
-<img src="https://img.shields.io/badge/OPEN%20TO-LEARNING-16A34A?style=for-the-badge">
+<font color="#67E8F9" size="4">
+Python • Machine Learning • NLP • Data Science
+</font>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%2FML-ENGINEER-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-%26%20AI-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-LEARNING-16A34A?style=for-the-badge"/>
 
 <br><br>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
