@@ -57,28 +57,37 @@ my technical skills through hands-on projects.
 
 An AI-powered web application designed for resume analysis and career guidance.
 
-**Key Features:**
+## 🚀 Featured Project
+
+### 🧠 Smart Resume Analyzer for Career Growth
+
+An AI-powered web application that analyzes resumes and provides
+career guidance based on skills, experience, and target job roles.
+
+#### ✨ Key Features
+
 - 📄 Resume Parsing
 - 🎯 ATS Score Analysis
 - 🔍 Skill-Gap Identification
 - 💡 Personalized Career Recommendations
 - 🌐 Web-based Resume Analysis Interface
 
-**Tech Stack:**
+#### 🛠️ Tech Stack
 
-`Python` `Flask` `NLP` `PyPDF2` `HTML` `CSS`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-5C3EE8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyPDF2-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
----
+#### 🎯 What It Does
 
-## 📚 Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Python
-- SQL
-- NLP
-- Data Analysis
+The application analyzes a user's resume, evaluates its ATS compatibility,
+identifies skill gaps, and provides personalized career recommendations
+for relevant job roles.
 
 ---
 
