@@ -25,29 +25,32 @@ my technical skills through hands-on projects.
 ## 🛠️ Technical Skills
 
 ### 💻 Programming
-- Python
-- SQL
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### 🤖 Artificial Intelligence
-- Artificial Intelligence
-- Machine Learning
-- NLP
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-5C3EE8?style=for-the-badge" />
+</p>
 
-### 📊 Data Science
-- Data Analysis
-- Data Preprocessing
-
-### 📚 Libraries
-- NumPy
-- Pandas
-- Scikit-learn
+### 📊 Data Science & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analysis-2C8EBB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
 ### 🤝 AI Tools
-- ChatGPT
-- Gemini
-
----
-
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 ## 🚀 Featured Project
 
 ### 🧠 Smart Resume Analyzer for Career Growth
