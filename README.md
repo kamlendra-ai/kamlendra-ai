@@ -264,34 +264,6 @@ personalized career recommendations.
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamlendra-ai&theme=tokyonight&hide_border=true" width="70%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kamlendra-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="70%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamlendra-ai&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 📈 GitHub Profile
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=kamlendra-ai&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/kamlendra-ai?label=Followers&style=for-the-badge&color=0891B2"/>
-
-</div>
-
 ---
 
 # 🤝 Connect With Me
