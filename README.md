@@ -1,16 +1,94 @@
-## Hi there 👋
+# 👋 Hi, I'm Kamlendra Pratap Maurya
 
-<!--
-**kamlendra-ai/kamlendra-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI/ML Engineer | Data Science & AI
 
-Here are some ideas to get you started:
+I am a BCA Data Science & AI student passionate about Artificial Intelligence,
+Machine Learning, NLP, and Data Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical AI-powered applications and continuously improving
+my technical skills through hands-on projects.
+
+---
+
+## 🚀 About Me
+
+- 🎓 BCA – Data Science & AI Student
+- 🤖 Aspiring AI/ML Engineer
+- 🐍 Working with Python
+- 🧠 Interested in Artificial Intelligence & Machine Learning
+- 💬 Exploring Natural Language Processing (NLP)
+- 📊 Interested in Data Analysis & Data Preprocessing
+- 🔨 Currently building AI-powered projects
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming
+- Python
+- SQL
+
+### 🤖 Artificial Intelligence
+- Artificial Intelligence
+- Machine Learning
+- NLP
+
+### 📊 Data Science
+- Data Analysis
+- Data Preprocessing
+
+### 📚 Libraries
+- NumPy
+- Pandas
+- Scikit-learn
+
+### 🤝 AI Tools
+- ChatGPT
+- Gemini
+
+---
+
+## 🚀 Featured Project
+
+### 🧠 Smart Resume Analyzer for Career Growth
+
+An AI-powered web application designed for resume analysis and career guidance.
+
+**Key Features:**
+- 📄 Resume Parsing
+- 🎯 ATS Score Analysis
+- 🔍 Skill-Gap Identification
+- 💡 Personalized Career Recommendations
+- 🌐 Web-based Resume Analysis Interface
+
+**Tech Stack:**
+
+`Python` `Flask` `NLP` `PyPDF2` `HTML` `CSS`
+
+---
+
+## 📚 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Python
+- SQL
+- NLP
+- Data Analysis
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** mohitsmaurya1@gmail.com
+
+💼 **LinkedIn:** [Kamlendra Pratap](https://www.linkedin.com/in/kamlendra-pratap)
+
+🐙 **GitHub:** [kamlendra-ai](https://github.com/kamlendra-ai)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and projects.
