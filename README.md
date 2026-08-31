@@ -90,6 +90,17 @@ identifies skill gaps, and provides personalized career recommendations
 for relevant job roles.
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamlendra-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="Kamlendra's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamlendra-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🤝 Connect With Me
 
